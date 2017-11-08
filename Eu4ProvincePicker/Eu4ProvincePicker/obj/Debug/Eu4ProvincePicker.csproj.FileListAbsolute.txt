@@ -1,0 +1,9 @@
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\bin\Debug\Eu4ProvincePicker.exe.config
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\bin\Debug\Eu4ProvincePicker.exe
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\bin\Debug\Eu4ProvincePicker.pdb
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.Form1.resources
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.Properties.Resources.resources
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.csproj.GenerateResource.Cache
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.exe
+C:\Users\polo\Documents\Eu4EditorProjectTool\Eu4ProvincePicker\Eu4ProvincePicker\obj\Debug\Eu4ProvincePicker.pdb
