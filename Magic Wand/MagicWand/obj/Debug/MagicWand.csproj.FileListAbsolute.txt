@@ -1,0 +1,18 @@
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\bin\Debug\MagicWand.exe.config
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\bin\Debug\MagicWand.exe
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\bin\Debug\MagicWand.pdb
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.Form1.resources
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.Properties.Resources.resources
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.csproj.GenerateResource.Cache
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.exe
+C:\Users\polo\Documents\ProjetEditorModEU4\MagicWand\MagicWand\obj\Debug\MagicWand.pdb
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\bin\Debug\MagicWand.exe.config
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\bin\Debug\MagicWand.exe
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\bin\Debug\MagicWand.pdb
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.Form1.resources
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.Properties.Resources.resources
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.csproj.GenerateResource.Cache
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.exe
+C:\Users\polo\Documents\Eu4EditorProjectTool\Magic Wand\MagicWand\obj\Debug\MagicWand.pdb
